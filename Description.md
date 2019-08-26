@@ -31,8 +31,7 @@ Objective of the problem: The objective of the problem is to predict values “c
 
 **Evaluation Criteria: Normalised root of MSE .** All values would be normalised to 100. Any member of a team may make a submission and 15 submissions are allowed per team. All teams must submit their projects to the code submission stage.
 
-**
-Evaluation Algorithm**
+**Evaluation Algorithm**
 
 Root Mean Square Error (RMSE)
 normalization_constant 100000
