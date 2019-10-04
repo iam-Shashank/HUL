@@ -48,5 +48,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTUxNDY4XX0=
+eyJoaXN0b3J5IjpbLTIwMTIzNzYzMzddfQ==
 -->
