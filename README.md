@@ -10,7 +10,7 @@ Hindustan Unilever Hackathon
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 18 | Score: 99.915341
 
-Competition Official Website: [Click Here](https://skillenza.com/challenge/obl-data-innovation-challenge)
+Competition Official Website: [Click Here](https://skillenza.com/challenge/obl-data-innovation-challengehul-bfs-datathon)
 
 Details of the Challenge mentioned in [Description.md](https://github.com/iam-Shashank/OBL-Data-Innovation-Challenge/blob/master/Description.md)
 
@@ -60,3 +60,6 @@ Current price: predicted price of the vehicle .
 
 Root Mean Square Error (RMSE)
 normalization_constant 100000
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3OTAzMTY0NF19
+-->
