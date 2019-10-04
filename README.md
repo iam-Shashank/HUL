@@ -1,7 +1,7 @@
 # Hindustan Unilever Hackathon
 
 * repo with code of Qualifier Data Science Challenge Round of Hindustan Unilever Hackathon.
-* **Result: Qualified for the Final Round.**
+* **Result: Shortlisted for the Final Onsite Round.** [ Did not attend onsite round due to prior commitments ]
 * Team name: null_shredders:
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
@@ -51,5 +51,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDc4OTk4Ml19
+eyJoaXN0b3J5IjpbOTM3ODcxMjQ0XX0=
 -->
