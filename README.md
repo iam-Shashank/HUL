@@ -5,7 +5,7 @@
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 38 | Score: 92.017971
-* ML technique used: XGBoost with GridSearch
+* Machine Learning technique used: **XGBoost with GridSearch**
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
@@ -48,5 +48,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIzNzYzMzddfQ==
+eyJoaXN0b3J5IjpbNDI1MzA1MzgzXX0=
 -->
