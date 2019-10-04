@@ -5,7 +5,7 @@
 * Team name: null_shredders:
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
-* Rank: 18 | Score: 99.915341
+* Rank: 38 | Score: 92.017971
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
@@ -51,5 +51,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTE5MjMwNV19
+eyJoaXN0b3J5IjpbMTczMDc4OTk4Ml19
 -->
