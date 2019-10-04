@@ -1,16 +1,13 @@
-# HUL
-Hindustan Unilever Hackathon
+# Hindustan Unilever Hackathon
 
-
-* This is the code repo for the OBL Qualifier Data Science Challenge.
+* repo with code of Qualifier Data Science Challenge Round of Hindustan Unilever Hackathon.
 * **Result: Qualified for the Final Round.**
-* Final Hackathon Round to be held on 5th-6th October.
 * Team name: null_shredders:
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 18 | Score: 99.915341
 
-Competition Official Website: [Click Here](https://skillenza.com/challenge/obl-data-innovation-challengehul-bfs-datathon)
+Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
 Details of the Challenge mentioned in [Description.md](https://github.com/iam-Shashank/OBL-Data-Innovation-Challenge/blob/master/Description.md)
 
@@ -61,5 +58,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTAzMTY0NF19
+eyJoaXN0b3J5IjpbLTEwOTc0MDg4MzddfQ==
 -->
