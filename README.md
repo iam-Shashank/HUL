@@ -1,11 +1,11 @@
 # Hindustan Unilever Hackathon
 
 * repo with code of Qualifier Data Science Challenge Round of Hindustan Unilever Hackathon.
-* **Result: Shortlisted for the Final Onsite Round.** [ Did not attend onsite round due to prior commitments ]
 * Team name: null_shredders:
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 38 | Score: 92.017971
+* Result: Shortlisted for the Final Onsite Round. [ Did not attend onsite round due to prior commitments ]
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
@@ -17,7 +17,7 @@ Objective of the problem: The objective of the problem is to predict values “c
 
 **Description of files:**
 
-V.id: Unique vehicle id
+V. id: Unique vehicle id
 
 On road old: On road price of the vehicle when purchased from showroom in rupees
 
@@ -41,15 +41,12 @@ Torque: torque of the engine indicated by dyno test.
 
 Current price: predicted price of the vehicle .
 
-
-
 **Evaluation Criteria:** Normalised root of MSE . All values would be normalised to 100. Any member of a team may make a submission and 15 submissions are allowed per team. All teams must submit their projects to the code submission stage.
 
 
-**Evaluation Algorithm**
-
+**Evaluation Algorithm**:
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3ODcxMjQ0XX0=
+eyJoaXN0b3J5IjpbMTQ1NTUxNDY4XX0=
 -->
