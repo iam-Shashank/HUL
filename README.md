@@ -9,8 +9,8 @@
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
-Details of the Challenge mentioned in [Description.md](https://github.com/iam-Shashank/OBL-Data-Innovation-Challenge/blob/master/Description.md)
 
+________________________________
 
 **Machine Learning Challenge**
 Objective of the problem: The objective of the problem is to predict values “current price” attribute from the given features of the Test data. The predictions are to be written to a CSV file along with ID which is the unique identifier for each tuple. Please view the sample submission file to understand how the submission file is to be written. Please upload the submission file to get a score. 
@@ -51,5 +51,5 @@ Current price: predicted price of the vehicle .
 Root Mean Square Error (RMSE)
 normalization_constant 100000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxNzI5ODldfQ==
+eyJoaXN0b3J5IjpbMTgzNTE5MjMwNV19
 -->
