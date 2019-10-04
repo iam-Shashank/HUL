@@ -5,7 +5,7 @@
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 38 | Score: 92.017971
-* Result: Shortlisted for the Final Onsite Round. [ Did not attend onsite round due to prior commitments ]
+* ML technique used: XGBoost with GridSearch
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/hul-bfs-datathon)
 
